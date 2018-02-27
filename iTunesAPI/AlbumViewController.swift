@@ -82,7 +82,7 @@ class AlbumViewController: UIViewController, UITableViewDelegate, UITableViewDat
         buyButton.layer.borderColor = UIColor.orange.cgColor
         
         //make album atwork more pleasant
-        artworkView.layer.cornerRadius = artworkView.frame.width/32
+        artworkView.layer.cornerRadius = artworkView.frame.width/24
         artworkView.clipsToBounds = true
         
         //load all data of album from iTunes lookup api
