@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (4.6.0)
+  - AZSearchView (1.0.3)
+  - CDAlertView (0.7.0)
+  - ESTMusicIndicator (0.1.3)
+  - Kingfisher (4.5.0)
+  - SwiftyJSON (4.0.0)
+  - TBEmptyDataSet (2.6)
+  - ViewAnimator (1.0.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.6)
+  - AZSearchView
+  - CDAlertView
+  - ESTMusicIndicator
+  - Kingfisher
+  - SwiftyJSON
+  - TBEmptyDataSet
+  - ViewAnimator
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  AZSearchView: 4ed3266ff6b27c1131466ac2bcaaa499800b1a0b
+  CDAlertView: fdef4dbbdafd1481c18f5db64dac2d321f3b8cbb
+  ESTMusicIndicator: 0b28ed54b5ec2206aa135b2b9db3fe255bb6e6ef
+  Kingfisher: 26ae0473102b77b575da51960c932431e3745407
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+  TBEmptyDataSet: 7383c353092f33dc572084cfa9182678a132dac7
+  ViewAnimator: d7b18e0be98e05807f61ad886a36363727209377
+
+PODFILE CHECKSUM: af11e487b803afd5d24e9b55839f5e481766b407
+
+COCOAPODS: 1.4.0
